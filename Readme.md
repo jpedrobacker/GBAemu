@@ -2,11 +2,13 @@
 
 ## install
 
-'sudo apt install build-essential'
-'sudo apt install libsdl2-dev'
-'sudo apt install libsdl2-ttf-dev'
-'sudo apt install check'
-'sudo apt install cmake'
+```bash
+sudo apt install build-essential
+sudo apt install libsdl2-dev
+sudo apt install libsdl2-ttf-dev
+sudo apt install check
+sudo apt install cmake
+```
 
 ## important references
 
